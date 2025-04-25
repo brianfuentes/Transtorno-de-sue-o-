@@ -36,8 +36,7 @@ pip install -r requirements.txt
 1. Clona este repositorio:
 
 ```bash
-[git clone https://github.com/usuario/proyecto-trastornos-sueno.git
-cd proyecto-trastornos-sueno](https://github.com/brianfuentes/Transtorno-de-sue-o-.git)
+https://github.com/brianfuentes/Transtorno-de-sue-o-.git
 ```
 
 2. Ejecuta los notebooks:
